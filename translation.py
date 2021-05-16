@@ -23,24 +23,14 @@ Support Group : @TeleRoid14
 """
 
 
-    ABOUT_TEXT = """<b>🤖 My Name : @TeleRoid_Hotstar_Bot</b>
-
-<b>👨‍💻 Creator : @PredatorHackerzZ_bot</b>
-
-<b>📝 Language : Python3</b>
-
-<b>📡 Server : <a href='https://www.heroku.com'> Heroku </a></b>
-
-<b>📔 Library : Pyrogram 1.0.7</b>
-
-<b>📌 Source Code : 👉 <a href='https://github.com/P-Phreak/URLuploader-With-Hotstar'>Click Here</a></b>
-
-<b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
-
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
-
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
-
+    ABOUT_TEXT = """
+🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/JNS_YOYTUBE_BOT">JNS YT DOWNLOADER</a> 
+📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/jns_bots">ＪƝ⟆ ᗷ〇Ƭ⟆</a>
+👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/jintons">JINTO NS</a>
+❤📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
+✨𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href="https://t.me/githubsoursecode">CLICK</a>
+📮 𝗙𝗥𝗔𝗠𝗘𝗪𝗢𝗥𝗞 : <a href="https://github.com/pyrogram/pyrogram">PYROGRAM</a>
+"""
 
 
     FORMAT_SELECTION = """<b>Choose appropriate option</b> <a href='{}'>⬇️</a>
