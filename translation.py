@@ -1,10 +1,10 @@
 class Translation(object):
 
-    START_TEXT = """Hello, I am a Powefull Hotstar URL Uploader Bot 😎!
-I can support Hotstar, Google Drive, and much more Links😌!
-Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
-Added Permanent Thumbnail Support💯😋!!
-Support Group : @TeleRoid14
+    START_TEXT = """ <b>Hello, I am a Powefull Hotstar URL Uploader Bot 😎!
+I can support Hotstar, Google Drive, and much more Links😌! </b>
+<b> Send Me Any Direct Download URL Link, I Can Upload To Telegram As File/Video!
+Added Permanent Thumbnail Support💯😋!! </b>
+<b>Support Group : @JNS_FC_BOTS </b>
 """
 
     HELP_USER = """It's not that complicated😅
