@@ -26,6 +26,15 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 
+### Deploy 
+
+Deploy on Heroku
+<p align="left">
+  <a href="https://heroku.com/deploy?template=https://github.com/JNSBOT/Hotstar-Downloader-Bot">
+     <img height="70px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku">
+  </a>
+</p>
+
 #### Run in your VPS
 ```sh
 git clone https://github.com/P-Phreak/URLuploader-With-Hotstar
